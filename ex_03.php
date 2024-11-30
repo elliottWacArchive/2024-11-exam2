@@ -29,5 +29,3 @@ function add_point_first(&$str, $size)
         $str = "." . $str;
     }
 }
-
-echo resum_join_str("12345678901234","a");
